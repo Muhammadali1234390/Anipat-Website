@@ -152,7 +152,7 @@ header > img:active{
     padding-top: 76px;
     padding-bottom: 30px;
     border-radius: 15px;
-    transition: 0.2s;
+    transition: 0.8s;
     position: relative;
     text-align: center;
 }
@@ -177,7 +177,7 @@ header > img:active{
     padding-top: 76px;
     padding-bottom: 30px;
     border-radius: 15px;
-    transition: 0.4s;
+    transition: 0.8s;
     position: relative;
     text-align: center;
 }
@@ -202,7 +202,7 @@ header > img:active{
     padding-top: 76px;
     padding-bottom: 30px;
     border-radius: 15px;
-    transition: 0.2s;
+    transition: 0.8s;
     position: relative;
     text-align: center;
 }
